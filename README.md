@@ -3,7 +3,7 @@
 ### IT student from Poland
 
 - 🔭 I'm currently working on **AI automation for businesses
-Website GEO and SEO optimization**
+Website and GEO and SEO optimization**
 
 - 🌱 I'm currently learning **Flask framework 
 Python
